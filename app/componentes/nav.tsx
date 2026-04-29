@@ -6,6 +6,9 @@ export default function Navbar() {
     { name: 'Configurações', href: '/paginas/configuracao' },
     { name: 'Repositórios', href: '/paginas/repositorio' },
     { name: 'Envio', href: '/paginas/envio' },
+    { name: 'Clone', href: '/paginas/clone' },
+    { name: 'Deploy', href: '/paginas/deploy' },
+     
   ];
 
   return (

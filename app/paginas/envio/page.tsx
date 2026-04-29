@@ -38,7 +38,7 @@ export default function GithubGuidePage() {
           <span className="inline-flex rounded-full border border-emerald-400/30 bg-emerald-400/10 px-4 py-1 text-sm font-medium text-emerald-300">
             Guia rápido de GitHub
           </span>
-          <h1 className="mt-4 max-w-3xl text-4xl font-bold tracking-tight md:text-6xl">
+          <h1 className="mt-4 max-w-3xl text-4xl font-bold tracking-tight md:text-5xl">
             Comandos essenciais para enviar seu projeto ao GitHub
           </h1>
           <p className="mt-4 max-w-2xl text-base leading-7 text-slate-300 md:text-lg">
